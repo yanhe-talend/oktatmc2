@@ -1,0 +1,6 @@
+{
+  "reference_projects" : [ {
+    "project" : "QTUP_986_REF1",
+    "branch" : "main"
+  } ]
+}
