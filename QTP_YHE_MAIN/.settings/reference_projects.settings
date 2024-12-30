@@ -1,0 +1,6 @@
+{
+  "reference_projects" : [ {
+    "project" : "QTP_YHE_REF2",
+    "branch" : "main"
+  } ]
+}
