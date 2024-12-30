@@ -1,6 +1,6 @@
 {
   "reference_projects" : [ {
     "project" : "QTUP_986_REF1",
-    "branch" : "main"
+    "branch" : "branches/main_R2024-12-1"
   } ]
 }
